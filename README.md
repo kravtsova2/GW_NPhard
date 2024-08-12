@@ -1,8 +1,8 @@
 This repository contains two codes to reproduce parts A and B of the figure in ``The NP-hardness of the Gromov-Wasserstein distance" by N. Kravtsova. 
 
 Part A uses spaces contructed in Exmple 5.2 of this reference (no additional files are  needed when using the code):
-Facundo Memoli. Gromov–Wasserstein distances and the metric approach to object matching. Foundations of computational mathematics, 11:417–487, 2011.
-https://www.math.ucdavis.edu/~saito/data/acha.read.w12/memoli-gromov-dist.pdf
+Facundo M ́emoli. Gromov–Wasserstein distances and the metric approach to object matching. Foundations of computational mathematics, 11:417–487, 2011.
+https://link.springer.com/content/pdf/10.1007/s10208-011-9093-5.pdf
 
 Part B requires two data files - Lotka1.dat and Lotka2.dat. These data is constructed by simulating the model from this reference:
 Dongmei Xiao and Wenxia Li. Limit cycles for the competitive three dimensional Lotka–Volterra system. Journal of Differential Equations, 164(1):1–15, 2000
